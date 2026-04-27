@@ -1,0 +1,1 @@
+"""Inventory chatbot FastAPI application."""
